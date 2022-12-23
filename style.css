@@ -281,15 +281,16 @@ button:active {
     background: #0548b5;
     width: 22rem;
     padding: 24px 12px;
-    padding-left: 12%;
+   
     font-size: 26px;
+    text-align: center;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
   }
   
   .wrapper p{
       font-size: 20px; 
-      padding-left: 10%;
+      padding-left: 14%;
       padding-top: 20px;
       line-height: 46px;
   }
